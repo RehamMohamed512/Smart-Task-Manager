@@ -1,0 +1,17 @@
+D:\FrontEnd\Front_End IEEE\Final project\ToDoApp\ToDo.Infrastructure\bin\Debug\net8.0\ToDo.Infrastructure.deps.json
+D:\FrontEnd\Front_End IEEE\Final project\ToDoApp\ToDo.Infrastructure\bin\Debug\net8.0\ToDo.Infrastructure.runtimeconfig.json
+D:\FrontEnd\Front_End IEEE\Final project\ToDoApp\ToDo.Infrastructure\bin\Debug\net8.0\ToDo.Infrastructure.dll
+D:\FrontEnd\Front_End IEEE\Final project\ToDoApp\ToDo.Infrastructure\bin\Debug\net8.0\ToDo.Infrastructure.pdb
+D:\FrontEnd\Front_End IEEE\Final project\ToDoApp\ToDo.Infrastructure\bin\Debug\net8.0\ToDo.Core.dll
+D:\FrontEnd\Front_End IEEE\Final project\ToDoApp\ToDo.Infrastructure\bin\Debug\net8.0\ToDo.Core.pdb
+D:\FrontEnd\Front_End IEEE\Final project\ToDoApp\ToDo.Infrastructure\obj\Debug\net8.0\ToDo.Infrastructure.csproj.AssemblyReference.cache
+D:\FrontEnd\Front_End IEEE\Final project\ToDoApp\ToDo.Infrastructure\obj\Debug\net8.0\ToDo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\FrontEnd\Front_End IEEE\Final project\ToDoApp\ToDo.Infrastructure\obj\Debug\net8.0\ToDo.Infrastructure.AssemblyInfoInputs.cache
+D:\FrontEnd\Front_End IEEE\Final project\ToDoApp\ToDo.Infrastructure\obj\Debug\net8.0\ToDo.Infrastructure.AssemblyInfo.cs
+D:\FrontEnd\Front_End IEEE\Final project\ToDoApp\ToDo.Infrastructure\obj\Debug\net8.0\ToDo.Infrastructure.csproj.CoreCompileInputs.cache
+D:\FrontEnd\Front_End IEEE\Final project\ToDoApp\ToDo.Infrastructure\obj\Debug\net8.0\ToDo.Inf.085FD133.Up2Date
+D:\FrontEnd\Front_End IEEE\Final project\ToDoApp\ToDo.Infrastructure\obj\Debug\net8.0\ToDo.Infrastructure.dll
+D:\FrontEnd\Front_End IEEE\Final project\ToDoApp\ToDo.Infrastructure\obj\Debug\net8.0\refint\ToDo.Infrastructure.dll
+D:\FrontEnd\Front_End IEEE\Final project\ToDoApp\ToDo.Infrastructure\obj\Debug\net8.0\ToDo.Infrastructure.pdb
+D:\FrontEnd\Front_End IEEE\Final project\ToDoApp\ToDo.Infrastructure\obj\Debug\net8.0\ToDo.Infrastructure.genruntimeconfig.cache
+D:\FrontEnd\Front_End IEEE\Final project\ToDoApp\ToDo.Infrastructure\obj\Debug\net8.0\ref\ToDo.Infrastructure.dll

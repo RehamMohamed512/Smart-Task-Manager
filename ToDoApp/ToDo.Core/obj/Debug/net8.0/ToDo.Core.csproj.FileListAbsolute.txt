@@ -1,0 +1,11 @@
+D:\FrontEnd\Front_End IEEE\Final project\ToDoApp\ToDo.Core\bin\Debug\net8.0\ToDo.Core.deps.json
+D:\FrontEnd\Front_End IEEE\Final project\ToDoApp\ToDo.Core\bin\Debug\net8.0\ToDo.Core.dll
+D:\FrontEnd\Front_End IEEE\Final project\ToDoApp\ToDo.Core\bin\Debug\net8.0\ToDo.Core.pdb
+D:\FrontEnd\Front_End IEEE\Final project\ToDoApp\ToDo.Core\obj\Debug\net8.0\ToDo.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\FrontEnd\Front_End IEEE\Final project\ToDoApp\ToDo.Core\obj\Debug\net8.0\ToDo.Core.AssemblyInfoInputs.cache
+D:\FrontEnd\Front_End IEEE\Final project\ToDoApp\ToDo.Core\obj\Debug\net8.0\ToDo.Core.AssemblyInfo.cs
+D:\FrontEnd\Front_End IEEE\Final project\ToDoApp\ToDo.Core\obj\Debug\net8.0\ToDo.Core.csproj.CoreCompileInputs.cache
+D:\FrontEnd\Front_End IEEE\Final project\ToDoApp\ToDo.Core\obj\Debug\net8.0\ToDo.Core.dll
+D:\FrontEnd\Front_End IEEE\Final project\ToDoApp\ToDo.Core\obj\Debug\net8.0\refint\ToDo.Core.dll
+D:\FrontEnd\Front_End IEEE\Final project\ToDoApp\ToDo.Core\obj\Debug\net8.0\ToDo.Core.pdb
+D:\FrontEnd\Front_End IEEE\Final project\ToDoApp\ToDo.Core\obj\Debug\net8.0\ref\ToDo.Core.dll
